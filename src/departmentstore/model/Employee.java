@@ -1,4 +1,4 @@
 package departmentstore.model;
 
-public class Employer {
+public class Employee {
 }
